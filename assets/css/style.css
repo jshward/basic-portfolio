@@ -1,0 +1,109 @@
+body         {
+
+	width: 960px;
+
+	background-image: url(../images/dust_scratches.png);
+
+}
+
+
+h1           {
+	         	
+		display: block;
+		font-size: 2em;
+		margin-top: 0.67em;
+		margin-bottom: 0.67em;
+		margin-left: 0;
+		margin-right: 0;
+		font-weight: bold;
+		font-family: 'Alegreya', Georgia, serif;
+
+}
+
+h2           {
+
+    
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
+
+}
+
+h3 {
+	font-family: 'Alegreya', Georgia, serif;
+	font-size: 1.17em;
+}
+
+.left	{
+
+			float: left;
+}                       
+
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}                       
+
+.mainbody	 {
+             
+			width: 650px;
+}		
+
+.portrait	{
+
+				width: 175px;
+				height: 175px;
+
+}                       
+
+.bio-content	{
+			
+				font-family: 'Roboto', Helvetica, Arial, sans-serif;
+				font-size: 16px;	
+
+
+}                       
+
+.sidebar	{
+
+			width: 270px;
+			
+
+}                       
+
+.icon_container	{
+	padding: 1%;
+    background-color: #747474;
+    color: white;
+}
+                         
+.icon {
+
+			margin: 5px;
+		
+			width: 75px;
+
+			height: 75px;	
+
+}                       
+
+.bottom	{
+			
+			position: fixed;
+		    bottom: 0;    
+			width: 100%;
+		    background-color: #666666;
+
+}                       
+
+
+
+
