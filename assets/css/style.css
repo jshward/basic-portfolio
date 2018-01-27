@@ -18,6 +18,7 @@ h1           {
 				color: white;
 				line-height: 60px;
 				margin-left: 240px;
+				text-shadow: 1px 1px black;
 
 }
 
@@ -196,6 +197,7 @@ hr {
 		width: 630px;
 		height:560px ;
 		border: 1px solid black;
+		margin-top: 20px;
 }
 
 table {
